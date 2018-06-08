@@ -1,15 +1,17 @@
 body {
     background: #333;
     color: #fff;
-
 }
+
 .navbar {
     border-bottom: #008ed6 3px solid;
     opacity: 0.8;
 }
 
 /* HOME CONTENT */
+
 /* background */
+
 #home-section {
     background: url(../img/home.jpg);
     background-repeat: no-repeat;
@@ -24,20 +26,27 @@ body {
     left: 0;
     width: 100%;
     min-height: 700px;
-    background: rgba(0,0,0,0.4);
+    background: rgba(0, 0, 0, 0.4);
 }
+
 /* END */
+
 /* home content placement */
+
 #home-section .home-inner {
     padding-top: 150px;
 }
+
 /* login form opacity */
+
 #home-section .card-form {
     opacity: 0.8;
 }
 
 /* checkboxes */
-#home-section .fas, #create-section .fas {
+
+#home-section .fas,
+#create-section .fas {
     color: #008ed6;
     background: white;
     padding: 5px;
@@ -47,14 +56,14 @@ body {
 /* END HOME CONTENT */
 
 /* EXPLORE CONTENT */
-#explore-section .fas, #share-section .fas {
+
+#explore-section .fas,
+#share-section .fas {
     background: #333;
     color: white;
     padding: 5px;
     border-radius: 5px;
-    
 }
-
 
 /* END EXPLORE CONTENT */
 
