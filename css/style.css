@@ -37,7 +37,7 @@ body {
 }
 
 /* checkboxes */
-#home-section .fas {
+#home-section .fas, #create-section .fas {
     color: #008ed6;
     background: white;
     padding: 5px;
@@ -57,3 +57,7 @@ body {
 
 
 /* END EXPLORE CONTENT */
+
+/* CREATE CONTENT */
+
+/* END CREATE CONTENT */
